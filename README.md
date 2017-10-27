@@ -16,3 +16,5 @@ In geometry, the 120-cell is the convex regular 4-polytope with Schläfli symbol
 nniccccccccccccccceeeeeeeeeee
 
 ![Alt Text](https://github.com/clementfranklin/Tesseract-Performing-a-Double-Rotation/blob/master/xT0BKzyF3d7ljlJpug.gif)
+
+![Alt Text](https://github.com/clementfranklin/Tesseract-Performing-a-Double-Rotation/blob/master/line-square-cube-hypercube-82868.gif)
